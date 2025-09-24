@@ -1,4 +1,4 @@
-# zimbra_direct_downloads
+# Direct download locations for Zimbra Collaboration Server Open Source Edition
 8.8.11 GA Release
 Release notes: https://wiki.zimbra.com/wiki/Zimbra_Releases/8.8.11
 3rd Party Open Source Licenses: https://files.zimbra.com/website/docs/8.8/open_source_licenses_8.8.txt
